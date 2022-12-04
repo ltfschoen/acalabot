@@ -1,0 +1,6 @@
+.rasa/*
+actions/__pycache__/*
+models/
+.DS_Store
+__pycache__/*
+story_graph.dot
