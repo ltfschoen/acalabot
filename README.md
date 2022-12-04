@@ -4,6 +4,10 @@ Simple prototype search assistant based on Rasa's formbot example that uses fake
 
 Note: The bot was not requested by Acala and is not an endorsement of Acala.
 
+## Preview
+
+![](https://media.giphy.com/media/ekUzeKizbT8EdFocsw/giphy.gif)
+
 ## How to use this demo?
 
 1. Clone repo
