@@ -37,4 +37,4 @@ cd acalabot
 
 ## License
 
-- Acala bot is licensed under [GPL v3.0 with a classpath linking exception](LICENSE-GPL3).
+- Acala bot is licensed under [Apache 2.0](LICENSE-APACHE2) and [GPL v3.0 with a classpath linking exception](LICENSE-GPL3).
